@@ -1,0 +1,24 @@
+*** ./smali/android/content/res/AssetManager.smali	2015-07-11 20:07:32.606633443 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/res/AssetManager.smali	2015-07-11 20:05:35.546635939 +0530
+***************
+*** 127,132 ****
+--- 127,134 ----
+  
+      invoke-static {}, Landroid/content/res/AssetManager;->ensureSystemAssets()V
+  
++     invoke-static {p0}, Landroid/miui/ResourcesManager;->addSystemAssets(Landroid/content/res/AssetManager;)V
++ 
+      monitor-exit p0
+  
+      return-void
+***************
+*** 172,177 ****
+--- 174,181 ----
+  
+      invoke-direct {p0}, Landroid/content/res/AssetManager;->init()V
+  
++     invoke-static {p0}, Landroid/miui/ResourcesManager;->addSystemAssets(Landroid/content/res/AssetManager;)V
++ 
+      return-void
+  .end method
+  

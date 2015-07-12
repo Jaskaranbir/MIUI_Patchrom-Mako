@@ -1,0 +1,21 @@
+*** ./smali/com/android/server/LightsService.smali	2015-07-11 20:07:14.399967164 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService.smali	2015-07-11 20:05:16.783303005 +0530
+***************
+*** 207,209 ****
+--- 207,222 ----
+  
+      return-object v0
+  .end method
++ 
++ .method public setLight(ILcom/android/server/LightsService$Light;)V
++     .locals 1
++     .param p1, "index"    # I
++     .param p2, "light"    # Lcom/android/server/LightsService$Light;
++ 
++     .prologue
++     iget-object v0, p0, Lcom/android/server/LightsService;->mLights:[Lcom/android/server/LightsService$Light;
++ 
++     aput-object p2, v0, p1
++ 
++     return-void
++ .end method

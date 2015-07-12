@@ -1,0 +1,14 @@
+*** ./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-11 20:07:37.919966663 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-11 20:05:40.903302491 +0530
+***************
+*** 32,37 ****
+--- 32,40 ----
+  .method public abstract getWindowManagerLock()Ljava/lang/Object;
+  .end method
+  
++ .method public abstract reboot()V
++ .end method
++ 
+  .method public abstract rebootSafeMode(Z)V
+  .end method
+  
