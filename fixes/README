@@ -1,6 +1,0 @@
-These are some of the fixes that you have to apply after you make fullota (or zip).
-
-- Open the final zip file created (fullota or otherwise whatever zip you mentioned).
-- Go to META-INF/com/google/android and delete the updater-script and put in the updater script given here (that updater script lacks some permission settings which cause problems like no boot logo, no gsm and wifi networks, unknown permission errors in logcat etc).
-- Go to system/app and decompile miuisystem.apk with apktool and copy-paste the file "mako.xml" to assets folder and repack and reinsert the file into archive.
-- You are good to flash the ROM. Backup first. Always.
