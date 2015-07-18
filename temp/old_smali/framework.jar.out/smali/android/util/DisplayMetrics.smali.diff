@@ -1,5 +1,5 @@
-*** ./smali/android/util/DisplayMetrics.smali	2015-07-11 20:07:41.863299912 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/util/DisplayMetrics.smali	2015-07-11 20:05:44.989969071 +0530
+*** ./smali/android/util/DisplayMetrics.smali	2015-07-17 15:58:49.095265551 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/util/DisplayMetrics.smali	2015-07-17 15:56:41.068601614 +0530
 ***************
 *** 21,26 ****
 --- 21,28 ----

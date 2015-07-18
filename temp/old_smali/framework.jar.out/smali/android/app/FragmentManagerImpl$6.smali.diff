@@ -1,5 +1,5 @@
-*** ./smali/android/app/FragmentManagerImpl$6.smali	2015-07-11 20:07:24.386633618 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/FragmentManagerImpl$6.smali	2015-07-11 20:05:27.076636120 +0530
+*** ./smali/android/app/FragmentManagerImpl$6.smali	2015-07-17 15:58:29.841932628 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/FragmentManagerImpl$6.smali	2015-07-17 15:56:21.991935354 +0530
 ***************
 *** 49,54 ****
 --- 49,60 ----

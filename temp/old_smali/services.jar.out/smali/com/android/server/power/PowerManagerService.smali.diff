@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/power/PowerManagerService.smali	2015-07-11 20:07:14.079967172 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService.smali	2015-07-11 20:05:16.456636346 +0530
+*** ./smali/com/android/server/power/PowerManagerService.smali	2015-07-17 15:58:18.461932871 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService.smali	2015-07-17 15:56:11.141935585 +0530
 ***************
 *** 1258,1263 ****
 --- 1258,1265 ----

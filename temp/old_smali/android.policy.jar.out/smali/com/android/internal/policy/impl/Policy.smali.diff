@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/Policy.smali	2015-07-11 20:07:07.219967317 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/Policy.smali	2015-07-11 20:05:06.796636552 +0530
+*** ./smali/com/android/internal/policy/impl/Policy.smali	2015-07-17 15:58:10.921933031 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/Policy.smali	2015-07-17 15:56:00.751935807 +0530
 ***************
 *** 164,172 ****
       .param p1, "context"    # Landroid/content/Context;

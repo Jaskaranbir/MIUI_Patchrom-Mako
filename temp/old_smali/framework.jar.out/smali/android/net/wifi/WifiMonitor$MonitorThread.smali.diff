@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiMonitor$MonitorThread.smali	2015-07-11 20:07:19.213300395 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiMonitor$MonitorThread.smali	2015-07-11 20:05:21.863302897 +0530
+*** ./smali/android/net/wifi/WifiMonitor$MonitorThread.smali	2015-07-17 15:58:24.138599415 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiMonitor$MonitorThread.smali	2015-07-17 15:56:16.518602138 +0530
 ***************
 *** 100,105 ****
 --- 100,130 ----

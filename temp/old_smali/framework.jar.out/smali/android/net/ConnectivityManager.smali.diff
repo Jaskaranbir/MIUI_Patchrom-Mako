@@ -1,5 +1,5 @@
-*** ./smali/android/net/ConnectivityManager.smali	2015-07-11 20:07:21.289967018 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/ConnectivityManager.smali	2015-07-11 20:05:23.956636186 +0530
+*** ./smali/android/net/ConnectivityManager.smali	2015-07-17 15:58:26.345266035 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/ConnectivityManager.smali	2015-07-17 15:56:18.678602091 +0530
 ***************
 *** 1531,1536 ****
 --- 1531,1568 ----

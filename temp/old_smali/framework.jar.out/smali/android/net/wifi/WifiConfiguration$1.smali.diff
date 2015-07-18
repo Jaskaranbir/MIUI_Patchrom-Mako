@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiConfiguration$1.smali	2015-07-11 20:07:19.333300393 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$1.smali	2015-07-11 20:05:21.976636228 +0530
+*** ./smali/android/net/wifi/WifiConfiguration$1.smali	2015-07-17 15:58:24.268599413 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$1.smali	2015-07-17 15:56:16.635268801 +0530
 ***************
 *** 87,92 ****
 --- 87,116 ----

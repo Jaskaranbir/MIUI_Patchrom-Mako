@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/WindowStateAnimator.smali	2015-07-11 20:07:10.259967252 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowStateAnimator.smali	2015-07-11 20:05:10.129969814 +0530
+*** ./smali/com/android/server/wm/WindowStateAnimator.smali	2015-07-17 15:58:14.188599628 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowStateAnimator.smali	2015-07-17 15:56:04.925269051 +0530
 ***************
 *** 2829,2834 ****
 --- 2829,2849 ----

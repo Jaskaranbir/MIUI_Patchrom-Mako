@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ActivityStackSupervisor.smali	2015-07-11 20:07:12.259967210 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStackSupervisor.smali	2015-07-11 20:05:13.099969751 +0530
+*** ./smali/com/android/server/am/ActivityStackSupervisor.smali	2015-07-17 15:58:16.428599580 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStackSupervisor.smali	2015-07-17 15:56:09.168602293 +0530
 ***************
 *** 7331,7336 ****
 --- 7331,7395 ----

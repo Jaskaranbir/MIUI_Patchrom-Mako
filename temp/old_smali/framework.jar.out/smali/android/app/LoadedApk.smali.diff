@@ -1,5 +1,5 @@
-*** ./smali/android/app/LoadedApk.smali	2015-07-11 20:07:25.176633601 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2015-07-11 20:05:27.836636103 +0530
+*** ./smali/android/app/LoadedApk.smali	2015-07-17 15:58:30.681932610 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2015-07-17 15:56:22.821935336 +0530
 ***************
 *** 1812,1817 ****
 --- 1812,1823 ----

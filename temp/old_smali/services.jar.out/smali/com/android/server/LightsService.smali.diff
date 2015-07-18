@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LightsService.smali	2015-07-11 20:07:14.399967164 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService.smali	2015-07-11 20:05:16.783303005 +0530
+*** ./smali/com/android/server/LightsService.smali	2015-07-17 15:58:18.838599529 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService.smali	2015-07-17 15:56:11.478602244 +0530
 ***************
 *** 207,209 ****
 --- 207,222 ----

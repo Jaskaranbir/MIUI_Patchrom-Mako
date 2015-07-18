@@ -1,5 +1,5 @@
-*** ./smali/android/view/Window.smali	2015-07-11 20:07:40.029966618 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/Window.smali	2015-07-11 20:05:43.079969112 +0530
+*** ./smali/android/view/Window.smali	2015-07-17 15:58:47.025265595 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/Window.smali	2015-07-17 15:56:39.065268323 +0530
 ***************
 *** 262,267 ****
 --- 262,277 ----

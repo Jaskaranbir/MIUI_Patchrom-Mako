@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiConfiguration$Protocol.smali	2015-07-11 20:07:20.439967036 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$Protocol.smali	2015-07-11 20:05:23.126636204 +0530
+*** ./smali/android/net/wifi/WifiConfiguration$Protocol.smali	2015-07-17 15:58:25.435266055 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$Protocol.smali	2015-07-17 15:56:17.771935444 +0530
 ***************
 *** 29,35 ****
       .locals 3

@@ -1,5 +1,5 @@
-*** ./smali/android/app/ContextImpl.smali	2015-07-11 20:07:25.566633593 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ContextImpl.smali	2015-07-11 20:05:28.236636095 +0530
+*** ./smali/android/app/ContextImpl.smali	2015-07-17 15:58:31.101932600 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ContextImpl.smali	2015-07-17 15:56:23.255268660 +0530
 ***************
 *** 520,525 ****
 --- 520,527 ----
@@ -30,7 +30,7 @@
       iget-object v1, p1, Landroid/app/ContextImpl;->mBasePackageName:Ljava/lang/String;
 ***************
 *** 1748,1753 ****
---- 1758,1778 ----
+--- 1758,1786 ----
       throw v0
   .end method
   
@@ -43,6 +43,14 @@
 +     new-instance v1, Landroid/app/ContextImpl$SecurityServiceFetcher;
 + 
 +     invoke-direct {v1}, Landroid/app/ContextImpl$SecurityServiceFetcher;-><init>()V
++ 
++     invoke-static {v0, v1}, Landroid/app/ContextImpl;->registerService(Ljava/lang/String;Landroid/app/ContextImpl$ServiceFetcher;)V
++ 
++     const-string v0, "locationpolicy"
++ 
++     new-instance v1, Landroid/app/ContextImpl$LocationPolicyServiceFetcher;
++ 
++     invoke-direct {v1}, Landroid/app/ContextImpl$LocationPolicyServiceFetcher;-><init>()V
 + 
 +     invoke-static {v0, v1}, Landroid/app/ContextImpl;->registerService(Ljava/lang/String;Landroid/app/ContextImpl$ServiceFetcher;)V
 + 

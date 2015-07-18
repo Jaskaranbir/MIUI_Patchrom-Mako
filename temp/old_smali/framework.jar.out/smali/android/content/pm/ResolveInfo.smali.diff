@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/ResolveInfo.smali	2015-07-11 20:07:31.833300126 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo.smali	2015-07-11 20:05:34.769969288 +0530
+*** ./smali/android/content/pm/ResolveInfo.smali	2015-07-17 15:58:37.808599125 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo.smali	2015-07-17 15:56:30.018601849 +0530
 ***************
 *** 821,826 ****
 --- 821,830 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/widget/OverScroller.smali	2015-07-11 20:07:43.609966542 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller.smali	2015-07-11 20:05:46.739969034 +0530
+*** ./smali/android/widget/OverScroller.smali	2015-07-17 15:58:50.918598844 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller.smali	2015-07-17 15:56:42.838601576 +0530
 ***************
 *** 30,35 ****
 --- 30,37 ----

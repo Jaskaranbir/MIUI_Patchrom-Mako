@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/display/WifiDisplayController.smali	2015-07-11 20:07:08.316633961 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/display/WifiDisplayController.smali	2015-07-11 20:05:07.896636529 +0530
+*** ./smali/com/android/server/display/WifiDisplayController.smali	2015-07-17 15:58:12.071933007 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/display/WifiDisplayController.smali	2015-07-17 15:56:02.848602429 +0530
 ***************
 *** 2068,2074 ****
   

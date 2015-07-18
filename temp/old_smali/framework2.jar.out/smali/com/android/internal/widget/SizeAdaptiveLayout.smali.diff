@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2015-07-11 20:07:18.163300418 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2015-07-11 20:05:20.576636258 +0530
+*** ./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2015-07-17 15:58:23.028599439 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2015-07-17 15:56:15.385268827 +0530
 ***************
 *** 297,306 ****
       .prologue

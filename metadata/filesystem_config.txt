@@ -37,7 +37,6 @@ system/app/Provision.apk 0 0 644
 system/app/QuickSearchBox.apk 0 0 644
 system/app/SoundRecorder.apk 0 0 644
 system/app/SpeechRecorder.apk 0 0 644
-system/app/Superuser.apk 0 0 644
 system/app/TelephonyProvider.apk 0 0 644
 system/app/UserDictionaryProvider.apk 0 0 644
 system/app/VideoEditor.apk 0 0 644
@@ -98,7 +97,6 @@ system/bin/dumpstate 0 2000 755
 system/bin/dumpsys 0 2000 755
 system/bin/e2fsck 0 2000 755
 system/bin/efsks 0 2000 755
-system/bin/.ext 0 0 777
 system/bin/flash_image 0 2000 755
 system/bin/fsck_msdos 0 2000 755
 system/bin/gdbjithelper 0 2000 755
@@ -277,8 +275,6 @@ system/etc/firmware/wcd9310/wcd9310_mbhc.bin 1013 1005 700
 system/etc/gps.conf 0 0 644
 system/etc/hosts 0 0 644
 system/etc/init.mako.bt.sh 0 0 644
-system/etc/.installed_su_daemon 0 0 644
-system/etc/install-recovery.sh 0 0 755
 system/etc/libnfc-brcm.conf 0 0 644
 system/etc/media_codecs.xml 0 0 644
 system/etc/media_profiles.xml 0 0 644
@@ -1405,7 +1401,6 @@ system/xbin/check-lost+found 0 2000 755
 system/xbin/cpueater 0 2000 755
 system/xbin/cpustats 0 2000 755
 system/xbin/daemonize 0 2000 755
-system/xbin/daemonsu 0 0 755
 system/xbin/dexdump 0 2000 755
 system/xbin/directiotest 0 2000 755
 system/xbin/insecure 0 2000 6755

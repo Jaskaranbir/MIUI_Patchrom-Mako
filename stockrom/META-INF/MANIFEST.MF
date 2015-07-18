@@ -343,11 +343,11 @@ SHA1-Digest: fCadKzGXzaaR1Dc++r5VdhLbD7c=
 Name: system/xbin/netserver
 SHA1-Digest: Kosk7EbthEAxU2mj5KcZbdCR6Xs=
 
-Name: system/lib/libmmcamera_frameproc.so
-SHA1-Digest: 8zufCCN6B+9fuTqzz+kyFhI4eEw=
-
 Name: system/fonts/NotoSansTeluguUI-Bold.ttf
 SHA1-Digest: 05HrjlDmEsFMs9JC5wtIsk1vFPE=
+
+Name: system/lib/libmmcamera_frameproc.so
+SHA1-Digest: 8zufCCN6B+9fuTqzz+kyFhI4eEw=
 
 Name: system/etc/security/cacerts/bdacca6f.0
 SHA1-Digest: 8tW67QFcn5vWb2ng+mTQOg3Gjk8=
@@ -937,9 +937,6 @@ SHA1-Digest: DYIruV2oJyJolv2CjZiAls0c5Pw=
 Name: system/etc/firmware/tzapps.b00
 SHA1-Digest: K7jiokmB9fqgjW0EtAndErP5nck=
 
-Name: system/bin/.ext/.su
-SHA1-Digest: +hhDqWa7ot8k9csJ7a2fQUEHyy8=
-
 Name: system/bin/keystore
 SHA1-Digest: v4m+gYg88AxRNVG8mpnoVLe5mUw=
 
@@ -1225,9 +1222,6 @@ SHA1-Digest: bvmRDBZKIICuA+Ews9YBWTpaWMY=
 Name: system/bin/wpa_cli
 SHA1-Digest: 4o24oZr1yinr/u2XrI8I7pt3Q64=
 
-Name: system/etc/.installed_su_daemon
-SHA1-Digest: 5fpE8rMcH7VTtgIec2DQfV2R/14=
-
 Name: system/etc/security/cacerts/d16a5865.0
 SHA1-Digest: IHs8zwNSis2LwTnTf8cYq349eYc=
 
@@ -1461,9 +1455,6 @@ SHA1-Digest: Ft22d1YQ/Tgf6gERY8XIG9XoMRs=
 
 Name: system/app/LatinIME.apk
 SHA1-Digest: OJMJZLxEa4FIS7ZcJ4NflPPBouU=
-
-Name: system/xbin/daemonsu
-SHA1-Digest: +hhDqWa7ot8k9csJ7a2fQUEHyy8=
 
 Name: system/lib/libRScpp.so
 SHA1-Digest: FxPvhQNfpAgcWGH1diU3UrPFEBQ=
@@ -2359,9 +2350,6 @@ SHA1-Digest: bVV1Qa7l1MhCwC1abN9558iyBQs=
 
 Name: system/etc/security/cacerts/3c860d51.0
 SHA1-Digest: jVkQI9H8cxcIxztNtuABWDex3vA=
-
-Name: system/etc/install-recovery.sh
-SHA1-Digest: RQJ5Fy/ZVZiz35w8g2YffpQg4yM=
 
 Name: system/lib/libttspico.so
 SHA1-Digest: iO/Uf52dAGb9F3QCz78KwXJUKbE=
@@ -3423,7 +3411,7 @@ Name: system/bin/applypatch_static
 SHA1-Digest: jQ+urIoNY/7Thv5L6LN9bVgA3C4=
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: 8kOwL4o40/im9ss3+667zqy8AEU=
+SHA1-Digest: lAeFk1aoTWFiktnoqke1pUCoLaI=
 
 Name: system/fonts/NotoSansKhmerUI-Bold.ttf
 SHA1-Digest: 2y/GYL/kvbk2dY/sYCLKqs4vUTY=
@@ -3470,11 +3458,11 @@ SHA1-Digest: EeTucxvP4KvwmGxmWn6mzatobhQ=
 Name: system/framework/webview/paks/sw.pak
 SHA1-Digest: Ggo86PktIC0YYgeZYYHlHfA65OQ=
 
-Name: system/bin/diag_mdlog
-SHA1-Digest: DOtYwuAcL6Mv8Xd1qKi+3cwDhhQ=
-
 Name: system/etc/security/cacerts/fde84897.0
 SHA1-Digest: 4cjH7IQeTRQjKlFetmsuZEAB/Tc=
+
+Name: system/bin/diag_mdlog
+SHA1-Digest: DOtYwuAcL6Mv8Xd1qKi+3cwDhhQ=
 
 Name: system/lib/libvariablespeed.so
 SHA1-Digest: k4velDeSK6Su5yQgp10LIui/zk8=
@@ -3558,7 +3546,7 @@ Name: system/bin/ds_fmc_appd
 SHA1-Digest: 8LHTB7SxC1I5SPluz3/z7HdI+sM=
 
 Name: system/build.prop
-SHA1-Digest: f6MPsYisPrQBd3qwrBO4jmawg74=
+SHA1-Digest: JALYhFUsxHKT91HW579cXnGDKbg=
 
 Name: system/lib/libchromatix_mt9e013_preview.so
 SHA1-Digest: thYhov14tcvAtfPxBo5Vmt4qrMw=
@@ -3770,9 +3758,6 @@ SHA1-Digest: 29F/iMymhwO2R89EyV2OF/gmrfU=
 
 Name: system/etc/security/cacerts/c51c224c.0
 SHA1-Digest: m+yzbVeln0O3uJYG0Xt8hKIPpF8=
-
-Name: system/app/Superuser.apk
-SHA1-Digest: lOneJYwbqD5xRVlJtsDfoxKqaR0=
 
 Name: system/lib/libdrmdiag.so
 SHA1-Digest: KuMCh0DTlmUJa+n6hk0KxTpm2bw=

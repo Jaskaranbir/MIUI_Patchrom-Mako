@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/PackageManagerService.smali	2015-07-11 20:07:13.593300515 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService.smali	2015-07-11 20:05:15.983303023 +0530
+*** ./smali/com/android/server/pm/PackageManagerService.smali	2015-07-17 15:58:17.928599548 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService.smali	2015-07-17 15:56:10.608602263 +0530
 ***************
 *** 917,922 ****
 --- 917,930 ----
@@ -195,8 +195,30 @@
   
       move-object/from16 v1, p1
 ***************
+*** 16367,16372 ****
+--- 16440,16458 ----
+      .restart local p1    # "pkg":Landroid/content/pm/PackageParser$Package;
+      :cond_b
+      :try_start_3
++     invoke-direct/range {p0 .. p1}, Lcom/android/server/pm/PackageManagerService;->checkMiuiSdk(Landroid/content/pm/PackageParser$Package;)Z
++ 
++     move-result v3
++ 
++     if-nez v3, :cond_miui_d
++ 
++     const/16 p1, 0x0
++ 
++     monitor-exit v15
++ 
++     goto/16 :goto_0
++ 
++     :cond_miui_d
+      move-object/from16 v0, p1
+  
+      iget-object v3, v0, Landroid/content/pm/PackageParser$Package;->mSharedUserId:Ljava/lang/String;
+***************
 *** 27837,27842 ****
---- 27910,28045 ----
+--- 27923,28058 ----
       return-void
   .end method
   
@@ -335,7 +357,7 @@
       .param p1, "packageName"    # Ljava/lang/String;
 ***************
 *** 27904,27913 ****
---- 28107,28123 ----
+--- 28120,28136 ----
       :try_end_0
       .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_0} :catch_0
   
@@ -355,7 +377,7 @@
       new-instance v0, Lcom/android/server/pm/PackageManagerService$7;
 ***************
 *** 34671,34676 ****
---- 34881,34921 ----
+--- 34894,34934 ----
       .param p6, "encryptionParams"    # Landroid/content/pm/ContainerEncryptionParams;
   
       .prologue
@@ -399,7 +421,7 @@
       const-string v2, "android.permission.INSTALL_PACKAGES"
 ***************
 *** 40472,40477 ****
---- 40717,40726 ----
+--- 40730,40739 ----
       :goto_0
       invoke-static {v0}, Landroid/content/pm/PackageParser;->setCompatibilityModeEnabled(Z)V
   
@@ -410,3 +432,47 @@
       iget-object v8, p0, Lcom/android/server/pm/PackageManagerService;->mPackages:Ljava/util/HashMap;
   
       monitor-enter v8
+***************
+*** 40865,40867 ****
+--- 41127,41167 ----
+  
+      return-void
+  .end method
++ 
++ .method private checkMiuiSdk(Landroid/content/pm/PackageParser$Package;)Z
++     .locals 3
++     .param p1, "pkg"    # Landroid/content/pm/PackageParser$Package;
++ 
++     .prologue
++     :try_start_0
++     invoke-static {p1, p0}, Lcom/android/server/pm/PackageManagerServiceInjector;->checkMiuiSdk(Landroid/content/pm/PackageParser$Package;Lcom/android/server/pm/PackageManagerService;)Z
++     :try_end_0
++     .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
++ 
++     move-result v1
++ 
++     if-nez v1, :cond_0
++ 
++     const/4 v1, 0x0
++ 
++     :goto_0
++     return v1
++ 
++     :catch_0
++     move-exception v0
++ 
++     .local v0, "ex":Ljava/lang/Exception;
++     const-string v1, "PackageManager"
++ 
++     invoke-virtual {v0}, Ljava/lang/Exception;->toString()Ljava/lang/String;
++ 
++     move-result-object v2
++ 
++     invoke-static {v1, v2}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
++ 
++     .end local v0    # "ex":Ljava/lang/Exception;
++     :cond_0
++     const/4 v1, 0x1
++ 
++     goto :goto_0
++ .end method

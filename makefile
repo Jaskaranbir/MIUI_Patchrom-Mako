@@ -12,7 +12,7 @@ local-out-zip-file := MIUI_nexus4.zip
 local-previous-target-dir := 
 
 # All apps from original ZIP, but has smali files chanded
-local-modified-apps :=
+local-modified-apps := 
 
 local-modified-jars :=
 
@@ -21,10 +21,12 @@ local-miui-removed-apps :=
 
 local-miui-modified-apps := miuisystem
 
-local-phone-apps := Camera2 Bluetooth HTMLViewer KeyChain LatinIME NfcNci WAPPushManager
+local-phone-apps := Camera2 Bluetooth HTMLViewer KeyChain LatinIME NfcNci PacProcessor \
+        UserDictionaryProvider WAPPushManager
 
-local-phone-priv-apps :=  DefaultContainerService FusedLocation \
-        ExternalStorageProvider InputDevices OneTimeInitializer ProxyHandler
+local-phone-priv-apps := BackupRestoreConfirmation DefaultContainerService FusedLocation \
+        ExternalStorageProvider InputDevices OneTimeInitializer ProxyHandler SharedStorageBackup \
+        Shell Tag VpnDialogs
 
 local-density := XHDPI
 
@@ -32,18 +34,13 @@ local-density := XHDPI
 # and the local-targets should:
 # (1) be defined after including porting.mk if using any global variable(see porting.mk)
 # (2) the name should be leaded with local- to prevent any conflict with global targets
-local-pre-zip := local_fixes
-local-after-zip:=
+local-pre-zip := adjust_apps_location
+local-after-zip:= 
 
 # The local targets after the zip file is generated, could include 'zip2sd' to 
 # deliver the zip file to phone, or to customize other actions
 
 include $(PORT_BUILD)/porting.mk
 
-# For some reasons, patching leads to "libnetcmdiface.so" library missing error. So we simply manually re-add the default libraries from Stockrom to get around this.
-local_fixes:
-	rm -rf $(ZIP_DIR)/system/lib/*
-	cp -f -R fixes/system/lib/* $(ZIP_DIR)/system/lib/
-	chmod a+x fixes.sh
-
-
+adjust_apps_location:
+	mv $(ZIP_DIR)/system/app/QuickSearchBox.apk $(ZIP_DIR)/system/priv-app/QuickSearchBox.apk

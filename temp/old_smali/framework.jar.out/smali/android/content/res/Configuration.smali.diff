@@ -1,5 +1,5 @@
-*** ./smali/android/content/res/Configuration.smali	2015-07-11 20:07:32.599966776 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/res/Configuration.smali	2015-07-11 20:05:35.539969272 +0530
+*** ./smali/android/content/res/Configuration.smali	2015-07-17 15:58:38.648599106 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/res/Configuration.smali	2015-07-17 15:56:30.835268498 +0530
 ***************
 *** 200,205 ****
 --- 200,207 ----

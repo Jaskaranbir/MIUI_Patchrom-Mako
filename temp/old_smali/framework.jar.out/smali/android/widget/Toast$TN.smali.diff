@@ -1,5 +1,5 @@
-*** ./smali/android/widget/Toast$TN.smali	2015-07-11 20:07:44.966633180 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/Toast$TN.smali	2015-07-11 20:05:48.146635670 +0530
+*** ./smali/android/widget/Toast$TN.smali	2015-07-17 15:58:52.435265479 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/Toast$TN.smali	2015-07-17 15:56:44.338601543 +0530
 ***************
 *** 168,173 ****
 --- 168,182 ----

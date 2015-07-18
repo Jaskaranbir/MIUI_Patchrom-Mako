@@ -1,5 +1,5 @@
-*** ./smali/android/app/StatusBarManager.smali	2015-07-11 20:07:26.126633581 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/StatusBarManager.smali	2015-07-11 20:05:28.793302750 +0530
+*** ./smali/android/app/StatusBarManager.smali	2015-07-17 15:58:31.685265921 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/StatusBarManager.smali	2015-07-17 15:56:23.861935313 +0530
 ***************
 *** 407,409 ****
 --- 407,445 ----

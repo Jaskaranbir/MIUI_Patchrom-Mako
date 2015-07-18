@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/InputMonitor.smali	2015-07-11 20:07:10.286633918 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/InputMonitor.smali	2015-07-11 20:05:10.153303146 +0530
+*** ./smali/com/android/server/wm/InputMonitor.smali	2015-07-17 15:58:14.218599628 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/InputMonitor.smali	2015-07-17 15:56:04.955269051 +0530
 ***************
 *** 720,725 ****
 --- 720,740 ----

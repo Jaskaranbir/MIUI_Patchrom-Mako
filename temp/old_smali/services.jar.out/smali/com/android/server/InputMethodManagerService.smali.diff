@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/InputMethodManagerService.smali	2015-07-11 20:07:11.929967217 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/InputMethodManagerService.smali	2015-07-11 20:05:12.793303090 +0530
+*** ./smali/com/android/server/InputMethodManagerService.smali	2015-07-17 15:58:16.038599588 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/InputMethodManagerService.smali	2015-07-17 15:56:08.828602301 +0530
 ***************
 *** 3186,3191 ****
 --- 3186,3193 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/Connection.smali	2015-07-11 20:07:54.043299653 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/Connection.smali	2015-07-11 20:05:57.349968808 +0530
+*** ./smali/com/android/internal/telephony/Connection.smali	2015-07-17 15:59:02.238598603 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/Connection.smali	2015-07-17 15:56:54.068601337 +0530
 ***************
 *** 21,26 ****
 --- 21,28 ----

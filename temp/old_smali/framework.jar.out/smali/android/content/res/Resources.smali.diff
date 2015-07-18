@@ -1,5 +1,5 @@
-*** ./smali/android/content/res/Resources.smali	2015-07-11 20:07:32.536633445 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources.smali	2015-07-11 20:05:35.473302607 +0530
+*** ./smali/android/content/res/Resources.smali	2015-07-17 15:58:38.581932441 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources.smali	2015-07-17 15:56:30.761935167 +0530
 ***************
 *** 216,222 ****
       return-void

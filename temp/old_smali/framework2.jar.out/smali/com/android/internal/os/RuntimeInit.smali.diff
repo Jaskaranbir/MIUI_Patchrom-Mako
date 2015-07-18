@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/os/RuntimeInit.smali	2015-07-11 20:07:16.366633789 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/os/RuntimeInit.smali	2015-07-11 20:05:18.736636297 +0530
+*** ./smali/com/android/internal/os/RuntimeInit.smali	2015-07-17 15:58:20.995266150 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/os/RuntimeInit.smali	2015-07-17 15:56:13.495268868 +0530
 ***************
 *** 167,173 ****
   

@@ -74,6 +74,7 @@ ro.kernel.android.checkjni=1
 dalvik.vm.dexopt-flags=m=y
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
+persist.sys.dalvik.vm.lib=libdvm.so
 persist.service.adb.enable=1
 persist.service.debuggable=1
 persist.sys.usb.config=mtp,adb

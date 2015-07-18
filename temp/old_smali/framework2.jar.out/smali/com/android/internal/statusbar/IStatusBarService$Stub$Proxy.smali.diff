@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/statusbar/IStatusBarService$Stub$Proxy.smali	2015-07-11 20:07:18.999967066 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBarService$Stub$Proxy.smali	2015-07-11 20:05:21.636636235 +0530
+*** ./smali/com/android/internal/statusbar/IStatusBarService$Stub$Proxy.smali	2015-07-17 15:58:23.911932754 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBarService$Stub$Proxy.smali	2015-07-17 15:56:16.298602141 +0530
 ***************
 *** 1164,1169 ****
 --- 1164,1252 ----

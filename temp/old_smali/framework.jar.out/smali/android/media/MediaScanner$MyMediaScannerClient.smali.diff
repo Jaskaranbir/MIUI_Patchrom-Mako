@@ -1,5 +1,5 @@
-*** ./smali/android/media/MediaScanner$MyMediaScannerClient.smali	2015-07-11 20:07:34.499966736 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaScanner$MyMediaScannerClient.smali	2015-07-11 20:05:37.393302566 +0530
+*** ./smali/android/media/MediaScanner$MyMediaScannerClient.smali	2015-07-17 15:58:40.638599064 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaScanner$MyMediaScannerClient.smali	2015-07-17 15:56:33.118601783 +0530
 ***************
 *** 3363,3369 ****
   

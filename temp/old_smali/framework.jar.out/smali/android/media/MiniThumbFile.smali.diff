@@ -1,5 +1,5 @@
-*** ./smali/android/media/MiniThumbFile.smali	2015-07-11 20:07:34.529966735 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MiniThumbFile.smali	2015-07-11 20:05:37.423302566 +0530
+*** ./smali/android/media/MiniThumbFile.smali	2015-07-17 15:58:40.668599064 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MiniThumbFile.smali	2015-07-17 15:56:33.148601782 +0530
 ***************
 *** 3,8 ****
 --- 3,16 ----

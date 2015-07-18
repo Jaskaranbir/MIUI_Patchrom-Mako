@@ -1,5 +1,5 @@
-*** ./smali/android/app/ApplicationPackageManager.smali	2015-07-11 20:07:25.589966926 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager.smali	2015-07-11 20:05:28.256636095 +0530
+*** ./smali/android/app/ApplicationPackageManager.smali	2015-07-17 15:58:31.125265933 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager.smali	2015-07-17 15:56:23.278601992 +0530
 ***************
 *** 1466,1471 ****
 --- 1466,1480 ----

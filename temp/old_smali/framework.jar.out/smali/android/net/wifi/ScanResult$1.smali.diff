@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/ScanResult$1.smali	2015-07-11 20:07:19.469967056 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/ScanResult$1.smali	2015-07-11 20:05:22.113302892 +0530
+*** ./smali/android/net/wifi/ScanResult$1.smali	2015-07-17 15:58:24.405266077 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/ScanResult$1.smali	2015-07-17 15:56:16.765268799 +0530
 ***************
 *** 40,49 ****
   

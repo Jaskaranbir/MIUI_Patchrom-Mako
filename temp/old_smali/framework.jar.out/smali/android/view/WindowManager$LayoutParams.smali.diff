@@ -1,5 +1,5 @@
-*** ./smali/android/view/WindowManager$LayoutParams.smali	2015-07-11 20:07:39.066633305 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2015-07-11 20:05:42.076635799 +0530
+*** ./smali/android/view/WindowManager$LayoutParams.smali	2015-07-17 15:58:45.985265617 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2015-07-17 15:56:38.045268344 +0530
 ***************
 *** 319,324 ****
 --- 319,326 ----

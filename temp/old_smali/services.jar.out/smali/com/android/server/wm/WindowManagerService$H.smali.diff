@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/WindowManagerService$H.smali	2015-07-11 20:07:10.206633921 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowManagerService$H.smali	2015-07-11 20:05:10.079969815 +0530
+*** ./smali/com/android/server/wm/WindowManagerService$H.smali	2015-07-17 15:58:14.131932962 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowManagerService$H.smali	2015-07-17 15:56:04.868602386 +0530
 ***************
 *** 790,795 ****
 --- 790,801 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/preference/RingtonePreference.smali	2015-07-11 20:07:48.633299768 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/preference/RingtonePreference.smali	2015-07-11 20:05:51.756635594 +0530
+*** ./smali/android/preference/RingtonePreference.smali	2015-07-17 15:58:56.328598730 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/preference/RingtonePreference.smali	2015-07-17 15:56:48.298601459 +0530
 ***************
 *** 311,316 ****
 --- 311,322 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/connectivity/Tethering.smali	2015-07-11 20:07:10.603300578 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/connectivity/Tethering.smali	2015-07-11 20:05:10.469969807 +0530
+*** ./smali/com/android/server/connectivity/Tethering.smali	2015-07-17 15:58:14.561932953 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/connectivity/Tethering.smali	2015-07-17 15:56:05.298602377 +0530
 ***************
 *** 1243,1252 ****
   
