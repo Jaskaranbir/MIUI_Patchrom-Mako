@@ -313,8 +313,5 @@ set_metadata("/system/bin/debuggerd_vendor", "uid", 0, "gid", 2000, "mode", 0755
 set_metadata("/system/xbin/su", "uid", 0, "gid", 2000, "mode", 06755, "capabilities", 0x0, "selabel", "u:object_r:su_exec:s0");
 delete_recursive("/data/miui/preinstall_apps");
 delete_recursive("/data/miui/cust/preinstall_apps");
-ui_print("Writing recovery image...");
-package_extract_file("system/etc/recovery.img", "/dev/block/platform/msm_sdcc.1/by-name/recovery");
 
-unmount("/data");
 unmount("/system");

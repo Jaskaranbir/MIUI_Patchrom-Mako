@@ -34,13 +34,18 @@ local-density := XHDPI
 # and the local-targets should:
 # (1) be defined after including porting.mk if using any global variable(see porting.mk)
 # (2) the name should be leaded with local- to prevent any conflict with global targets
-local-pre-zip := adjust_apps_location
-local-after-zip:= 
+local-pre-zip := apply_fixes
+local-after-zip:=
 
 # The local targets after the zip file is generated, could include 'zip2sd' to 
 # deliver the zip file to phone, or to customize other actions
 
 include $(PORT_BUILD)/porting.mk
 
-adjust_apps_location:
+apply_fixes:
+ifneq ("$(wildcard $(ZIP_DIR)/system/app/QuickSearchBox.apk)","")
 	mv $(ZIP_DIR)/system/app/QuickSearchBox.apk $(ZIP_DIR)/system/priv-app/QuickSearchBox.apk
+endif
+#Fix torch toggle
+	zip -j $(ZIP_DIR)/system/priv-app/MiuiSystemUI.apk fixes/system/priv-app/MiuiSystemUI.apk/resources.arsc
+	sh fixes/fix_updater-script.sh & 
