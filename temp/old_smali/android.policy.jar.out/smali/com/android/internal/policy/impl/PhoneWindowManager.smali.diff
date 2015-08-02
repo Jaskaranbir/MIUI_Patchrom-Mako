@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2015-07-17 15:58:10.735266369 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2015-07-17 15:56:00.578602477 +0530
+*** ./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2015-07-25 14:08:40.464210262 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2015-07-25 14:05:42.557549405 +0530
 ***************
 *** 160,165 ****
 --- 160,167 ----

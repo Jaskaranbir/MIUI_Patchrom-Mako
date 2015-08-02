@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LocationManagerService$Receiver.smali	2015-07-17 15:58:15.535266266 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LocationManagerService$Receiver.smali	2015-07-17 15:56:08.351935645 +0530
+*** ./smali/com/android/server/LocationManagerService$Receiver.smali	2015-07-25 14:08:47.487543366 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LocationManagerService$Receiver.smali	2015-07-25 14:05:47.187549253 +0530
 ***************
 *** 13,19 ****
   .end annotation

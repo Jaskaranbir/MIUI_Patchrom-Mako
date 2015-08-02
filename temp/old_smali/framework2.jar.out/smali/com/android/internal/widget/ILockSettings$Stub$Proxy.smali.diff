@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/ILockSettings$Stub$Proxy.smali	2015-07-17 15:58:23.648599426 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub$Proxy.smali	2015-07-17 15:56:16.031935481 +0530
+*** ./smali/com/android/internal/widget/ILockSettings$Stub$Proxy.smali	2015-07-25 14:08:58.820876328 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub$Proxy.smali	2015-07-25 14:05:54.707549008 +0530
 ***************
 *** 860,865 ****
 --- 860,923 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/widget/EdgeEffect.smali	2015-07-17 15:58:51.088598841 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/EdgeEffect.smali	2015-07-17 15:56:43.011934906 +0530
+*** ./smali/android/widget/EdgeEffect.smali	2015-07-25 14:09:37.204208408 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/EdgeEffect.smali	2015-07-25 14:06:33.060881089 +0530
 ***************
 *** 94,99 ****
 --- 94,101 ----

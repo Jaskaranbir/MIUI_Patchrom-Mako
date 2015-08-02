@@ -1,5 +1,5 @@
-*** ./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-17 15:58:44.671932311 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-17 15:56:36.808601704 +0530
+*** ./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-25 14:09:28.600875357 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali	2015-07-25 14:06:25.010881352 +0530
 ***************
 *** 32,37 ****
 --- 32,40 ----

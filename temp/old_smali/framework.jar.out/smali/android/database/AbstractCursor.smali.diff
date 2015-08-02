@@ -1,5 +1,5 @@
-*** ./smali/android/database/AbstractCursor.smali	2015-07-17 15:58:54.678598764 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/database/AbstractCursor.smali	2015-07-17 15:56:46.681934828 +0530
+*** ./smali/android/database/AbstractCursor.smali	2015-07-25 14:09:42.187541580 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/database/AbstractCursor.smali	2015-07-25 14:06:37.927547597 +0530
 ***************
 *** 825,830 ****
 --- 825,839 ----

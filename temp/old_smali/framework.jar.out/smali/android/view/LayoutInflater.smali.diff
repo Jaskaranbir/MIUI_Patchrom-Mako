@@ -1,5 +1,5 @@
-*** ./smali/android/view/LayoutInflater.smali	2015-07-17 15:58:47.355265587 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/LayoutInflater.smali	2015-07-17 15:56:39.365268316 +0530
+*** ./smali/android/view/LayoutInflater.smali	2015-07-25 14:09:32.170875240 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/LayoutInflater.smali	2015-07-25 14:06:28.477547905 +0530
 ***************
 *** 1533,1538 ****
 --- 1533,1546 ----

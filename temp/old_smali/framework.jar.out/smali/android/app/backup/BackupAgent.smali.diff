@@ -1,5 +1,5 @@
-*** ./smali/android/app/backup/BackupAgent.smali	2015-07-17 15:58:31.085265935 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/backup/BackupAgent.smali	2015-07-17 15:56:23.238601993 +0530
+*** ./smali/android/app/backup/BackupAgent.smali	2015-07-25 14:09:09.600875977 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/backup/BackupAgent.smali	2015-07-25 14:06:05.360881993 +0530
 ***************
 *** 67,72 ****
 --- 67,100 ----
@@ -56,3 +56,17 @@
   
       move-result v1
   
+***************
+*** 1134,1139 ****
+--- 1164,1174 ----
+  
+      invoke-static {v2, v3}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+  
++     if-nez p1, :cond_miui_00
++ 
++     return-void
++ 
++     :cond_miui_00
+      const-string v2, "f"
+  
+      move-object/from16 v0, p5

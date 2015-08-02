@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/power/DisplayPowerController.smali	2015-07-17 15:58:18.318599540 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/DisplayPowerController.smali	2015-07-17 15:56:11.001935588 +0530
+*** ./smali/com/android/server/power/DisplayPowerController.smali	2015-07-25 14:08:51.314209907 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/DisplayPowerController.smali	2015-07-25 14:05:49.777549169 +0530
 ***************
 *** 2172,2178 ****
   

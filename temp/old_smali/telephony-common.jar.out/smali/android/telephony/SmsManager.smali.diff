@@ -1,5 +1,5 @@
-*** ./smali/android/telephony/SmsManager.smali	2015-07-17 15:58:59.288598667 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/android/telephony/SmsManager.smali	2015-07-17 15:56:51.261934730 +0530
+*** ./smali/android/telephony/SmsManager.smali	2015-07-25 14:09:48.757541365 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/android/telephony/SmsManager.smali	2015-07-25 14:06:44.610880711 +0530
 ***************
 *** 189,194 ****
 --- 189,204 ----

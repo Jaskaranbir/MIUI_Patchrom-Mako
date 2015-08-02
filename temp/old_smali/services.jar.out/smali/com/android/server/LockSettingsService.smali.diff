@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LockSettingsService.smali	2015-07-17 15:58:17.338599561 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LockSettingsService.smali	2015-07-17 15:56:10.068602274 +0530
+*** ./smali/com/android/server/LockSettingsService.smali	2015-07-25 14:08:50.010876616 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LockSettingsService.smali	2015-07-25 14:05:48.887549198 +0530
 ***************
 *** 6,12 ****
   # annotations

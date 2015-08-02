@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/uicc/SIMRecords.smali	2015-07-17 15:59:02.115265273 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/SIMRecords.smali	2015-07-17 15:56:53.941934673 +0530
+*** ./smali/com/android/internal/telephony/uicc/SIMRecords.smali	2015-07-25 14:09:52.747541234 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/SIMRecords.smali	2015-07-25 14:06:48.974213903 +0530
 ***************
 *** 978,983 ****
 --- 978,991 ----

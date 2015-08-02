@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/LockPatternUtils.smali	2015-07-17 15:58:23.068599438 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/LockPatternUtils.smali	2015-07-17 15:56:15.428602160 +0530
+*** ./smali/com/android/internal/widget/LockPatternUtils.smali	2015-07-25 14:08:57.910876359 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/LockPatternUtils.smali	2015-07-25 14:05:54.130882360 +0530
 ***************
 *** 1845,1850 ****
 --- 1845,1860 ----

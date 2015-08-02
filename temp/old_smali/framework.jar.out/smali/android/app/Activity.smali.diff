@@ -1,5 +1,5 @@
-*** ./smali/android/app/Activity.smali	2015-07-17 15:58:29.665265965 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/Activity.smali	2015-07-17 15:56:21.821935358 +0530
+*** ./smali/android/app/Activity.smali	2015-07-25 14:09:07.547542710 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/Activity.smali	2015-07-25 14:06:03.330882060 +0530
 ***************
 *** 5129,5146 ****
   .end method

@@ -1,5 +1,5 @@
-*** ./smali/android/app/BackStackState.smali	2015-07-17 15:58:30.048599290 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/BackStackState.smali	2015-07-17 15:56:22.198602015 +0530
+*** ./smali/android/app/BackStackState.smali	2015-07-25 14:09:08.104209359 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/BackStackState.smali	2015-07-25 14:06:03.850882043 +0530
 ***************
 *** 672,677 ****
 --- 672,693 ----

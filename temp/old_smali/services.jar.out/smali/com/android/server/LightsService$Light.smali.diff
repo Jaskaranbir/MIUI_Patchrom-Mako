@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LightsService$Light.smali	2015-07-17 15:58:19.048599525 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService$Light.smali	2015-07-17 15:56:11.665268908 +0530
+*** ./smali/com/android/server/LightsService$Light.smali	2015-07-25 14:08:52.287543208 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService$Light.smali	2015-07-25 14:05:50.414215814 +0530
 ***************
 *** 1,4 ****
 ! .class public final Lcom/android/server/LightsService$Light;

@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/PackageParser.smali	2015-07-17 15:58:37.685265793 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser.smali	2015-07-17 15:56:29.901935185 +0530
+*** ./smali/android/content/pm/PackageParser.smali	2015-07-25 14:09:19.214208996 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser.smali	2015-07-25 14:06:15.290881669 +0530
 ***************
 *** 15179,15185 ****
       .local v25, "cookie":I

@@ -1,5 +1,5 @@
-*** ./smali/android/media/MediaFile.smali	2015-07-17 15:58:38.965265767 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaFile.smali	2015-07-17 15:56:31.155268492 +0530
+*** ./smali/android/media/MediaFile.smali	2015-07-25 14:09:21.004208938 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaFile.smali	2015-07-25 14:06:17.154214941 +0530
 ***************
 *** 413,418 ****
 --- 413,426 ----

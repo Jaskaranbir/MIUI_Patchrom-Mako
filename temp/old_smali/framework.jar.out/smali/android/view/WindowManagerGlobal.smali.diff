@@ -1,5 +1,5 @@
-*** ./smali/android/view/WindowManagerGlobal.smali	2015-07-17 15:58:45.685265624 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManagerGlobal.smali	2015-07-17 15:56:37.761935018 +0530
+*** ./smali/android/view/WindowManagerGlobal.smali	2015-07-25 14:09:29.987541978 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/WindowManagerGlobal.smali	2015-07-25 14:06:26.364214640 +0530
 ***************
 *** 574,579 ****
 --- 574,583 ----

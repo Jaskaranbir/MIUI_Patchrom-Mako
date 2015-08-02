@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/power/PowerManagerService$WakeLock.smali	2015-07-17 15:58:18.365266206 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService$WakeLock.smali	2015-07-17 15:56:11.048602254 +0530
+*** ./smali/com/android/server/power/PowerManagerService$WakeLock.smali	2015-07-25 14:08:51.380876572 +0530
+--- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService$WakeLock.smali	2015-07-25 14:05:49.824215834 +0530
 ***************
 *** 12,18 ****
   .end annotation
