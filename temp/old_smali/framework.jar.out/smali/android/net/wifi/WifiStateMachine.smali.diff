@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiStateMachine.smali	2015-07-25 14:09:00.194209618 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiStateMachine.smali	2015-07-25 14:05:55.624215644 +0530
+*** ./smali/android/net/wifi/WifiStateMachine.smali	2015-10-17 10:50:47.866090568 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiStateMachine.smali	2015-10-17 10:45:52.352770000 -0400
 ***************
 *** 936,942 ****
   

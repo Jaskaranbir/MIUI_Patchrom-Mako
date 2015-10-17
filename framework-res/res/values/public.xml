@@ -4629,6 +4629,7 @@
     <public type="dimen" name="subtitle_shadow_offset" id="0x0105007b" />
     <public type="dimen" name="subtitle_outline_width" id="0x0105007c" />
     <public type="dimen" name="immersive_mode_cling_width" id="0x0105007d" />
+    <public type="dimen" name="APKTOOL_DUMMY_007f" id="0x0105007f" />
     <public type="dimen" name="webviewchromium_link_preview_overlay_radius" id="0x01050083" />
     <public type="dimen" name="webviewchromium_color_button_height" id="0x01050084" />
     <public type="dimen" name="webviewchromium_color_picker_gradient_margin" id="0x01050085" />
@@ -4638,7 +4639,6 @@
     <public type="dimen" name="keyguard_pattern_unlock_status_line_font_size" id="0x01050081" />
     <public type="dimen" name="navigation_bar_height_portrait" id="0x01050082" />
     <public type="dimen" name="kg_emergency_button_shift" id="0x0105007e" />
-    <public type="dimen" name="APKTOOL_DUMMY_007f" id="0x0105007f" />
     <public type="color" name="darker_gray" id="0x01060000" />
     <public type="color" name="primary_text_dark" id="0x01060001" />
     <public type="color" name="primary_text_dark_nodisable" id="0x01060002" />
@@ -5095,6 +5095,7 @@
     <public type="drawable" name="switch_inner_holo_light" id="0x010805e7" />
     <public type="drawable" name="switch_track_holo_dark" id="0x010805f1" />
     <public type="drawable" name="switch_track_holo_light" id="0x010805f2" />
+    <public type="drawable" name="APKTOOL_DUMMY_05f7" id="0x010805f7" />
     <public type="drawable" name="tab_bottom_left" id="0x01080611" />
     <public type="drawable" name="tab_bottom_left_v4" id="0x01080612" />
     <public type="drawable" name="tab_bottom_right" id="0x01080613" />
@@ -6505,7 +6506,6 @@
     <public type="drawable" name="spinner_disabled_holo" id="0x0108056c" />
     <public type="drawable" name="spinner_normal_holo" id="0x01080578" />
     <public type="drawable" name="switch_thumb_holo_light_v2" id="0x010805ee" />
-    <public type="drawable" name="APKTOOL_DUMMY_05f7" id="0x010805f7" />
     <public type="layout" name="activity_list_item" id="0x01090000" />
     <public type="layout" name="expandable_list_content" id="0x01090001" />
     <public type="layout" name="preference_category" id="0x01090002" />

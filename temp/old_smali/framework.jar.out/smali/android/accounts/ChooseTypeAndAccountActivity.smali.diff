@@ -1,5 +1,5 @@
-*** ./smali/android/accounts/ChooseTypeAndAccountActivity.smali	2015-07-25 14:09:48.037541388 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/accounts/ChooseTypeAndAccountActivity.smali	2015-07-25 14:06:43.880880735 +0530
+*** ./smali/android/accounts/ChooseTypeAndAccountActivity.smali	2015-10-17 10:52:18.236086664 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/accounts/ChooseTypeAndAccountActivity.smali	2015-10-17 10:47:04.206100230 -0400
 ***************
 *** 818,828 ****
       :cond_0

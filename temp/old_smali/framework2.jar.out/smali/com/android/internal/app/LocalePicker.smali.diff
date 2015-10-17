@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/app/LocalePicker.smali	2015-07-25 14:08:54.177543147 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/LocalePicker.smali	2015-07-25 14:05:51.720882438 +0530
+*** ./smali/com/android/internal/app/LocalePicker.smali	2015-10-17 10:50:38.229424318 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/LocalePicker.smali	2015-10-17 10:45:42.376103765 -0400
 ***************
 *** 464,470 ****
       goto :goto_3

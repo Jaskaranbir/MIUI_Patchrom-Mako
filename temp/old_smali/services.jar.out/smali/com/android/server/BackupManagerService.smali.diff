@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/BackupManagerService.smali	2015-07-25 14:08:43.367543501 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService.smali	2015-07-25 14:05:44.334216014 +0530
+*** ./smali/com/android/server/BackupManagerService.smali	2015-10-17 10:50:21.649425035 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService.smali	2015-10-17 10:45:30.569437609 -0400
 ***************
 *** 35,41 ****
           Lcom/android/server/BackupManagerService$RestoreParams;,

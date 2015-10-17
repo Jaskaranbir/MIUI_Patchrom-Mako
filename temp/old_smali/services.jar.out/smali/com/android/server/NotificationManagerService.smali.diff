@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/NotificationManagerService.smali	2015-07-25 14:08:47.120876711 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/NotificationManagerService.smali	2015-07-25 14:05:46.940882595 +0530
+*** ./smali/com/android/server/NotificationManagerService.smali	2015-10-17 10:50:27.926091430 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/NotificationManagerService.smali	2015-10-17 10:45:35.369437400 -0400
 ***************
 *** 3287,3293 ****
   .end method

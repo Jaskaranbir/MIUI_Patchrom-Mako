@@ -1,5 +1,5 @@
-*** ./smali/android/widget/TextView.smali	2015-07-25 14:09:40.874208289 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/TextView.smali	2015-07-25 14:06:36.597547640 +0530
+*** ./smali/android/widget/TextView.smali	2015-10-17 10:52:08.202753764 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/widget/TextView.smali	2015-10-17 10:46:55.126100622 -0400
 ***************
 *** 20116,20128 ****
   

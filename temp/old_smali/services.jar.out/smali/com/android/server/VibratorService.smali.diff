@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/VibratorService.smali	2015-07-25 14:08:52.917543188 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/VibratorService.smali	2015-07-25 14:05:50.837549134 +0530
+*** ./smali/com/android/server/VibratorService.smali	2015-10-17 10:50:36.342757733 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/VibratorService.smali	2015-10-17 10:45:41.232770481 -0400
 ***************
 *** 20,25 ****
 --- 20,29 ----

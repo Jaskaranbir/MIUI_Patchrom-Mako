@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/ILockSettings$Stub.smali	2015-07-25 14:08:57.947543024 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub.smali	2015-07-25 14:05:54.157549026 +0530
+*** ./smali/com/android/internal/widget/ILockSettings$Stub.smali	2015-10-17 10:50:45.146090686 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub.smali	2015-10-17 10:45:48.352770173 -0400
 ***************
 *** 50,55 ****
 --- 50,57 ----

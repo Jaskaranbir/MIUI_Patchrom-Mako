@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/statusbar/IStatusBar.smali	2015-07-25 14:08:59.197542983 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBar.smali	2015-07-25 14:05:55.014215665 +0530
+*** ./smali/com/android/internal/statusbar/IStatusBar.smali	2015-10-17 10:50:46.649423955 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBar.smali	2015-10-17 10:45:50.272770091 -0400
 ***************
 *** 111,116 ****
 --- 111,124 ----

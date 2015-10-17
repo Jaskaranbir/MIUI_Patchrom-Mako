@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/app/IAppOpsService$Stub$Proxy.smali	2015-07-25 14:08:54.287543144 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub$Proxy.smali	2015-07-25 14:05:51.794215770 +0530
+*** ./smali/com/android/internal/app/IAppOpsService$Stub$Proxy.smali	2015-10-17 10:50:38.396090977 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub$Proxy.smali	2015-10-17 10:45:42.469437094 -0400
 ***************
 *** 112,117 ****
 --- 112,184 ----

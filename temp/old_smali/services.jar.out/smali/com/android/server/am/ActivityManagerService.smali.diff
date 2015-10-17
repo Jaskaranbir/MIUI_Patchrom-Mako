@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ActivityManagerService.smali	2015-07-25 14:08:49.787543290 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityManagerService.smali	2015-07-25 14:05:48.724215870 +0530
+*** ./smali/com/android/server/am/ActivityManagerService.smali	2015-10-17 10:50:32.149424580 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityManagerService.smali	2015-10-17 10:45:37.926103957 -0400
 ***************
 *** 1586,1591 ****
 --- 1586,1593 ----

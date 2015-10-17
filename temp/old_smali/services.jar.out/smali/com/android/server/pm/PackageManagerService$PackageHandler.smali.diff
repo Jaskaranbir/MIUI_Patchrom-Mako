@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2015-07-25 14:08:50.700876595 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2015-07-25 14:05:49.344215849 +0530
+*** ./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2015-10-17 10:50:33.356091195 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2015-10-17 10:45:38.696103924 -0400
 ***************
 *** 2303,2308 ****
 --- 2303,2355 ----

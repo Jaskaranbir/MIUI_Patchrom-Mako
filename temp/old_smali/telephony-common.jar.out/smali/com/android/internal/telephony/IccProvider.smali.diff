@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/IccProvider.smali	2015-07-25 14:09:52.997541226 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/IccProvider.smali	2015-07-25 14:06:49.234213894 +0530
+*** ./smali/com/android/internal/telephony/IccProvider.smali	2015-10-17 10:52:24.352753067 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/IccProvider.smali	2015-10-17 10:47:10.869433275 -0400
 ***************
 *** 4,10 ****
   

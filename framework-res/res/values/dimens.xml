@@ -13,9 +13,9 @@
     <dimen name="config_minScalingTouchMajor">48.0dip</dimen>
     <dimen name="toast_y_offset">64.0dip</dimen>
     <dimen name="status_bar_height">25.0dip</dimen>
-    <dimen name="navigation_bar_height">48.0dip</dimen>
-    <dimen name="navigation_bar_height_landscape">48.0dip</dimen>
-    <dimen name="navigation_bar_width">42.0dip</dimen>
+    <dimen name="navigation_bar_height">24.0dip</dimen>
+    <dimen name="navigation_bar_height_landscape">24.0dip</dimen>
+    <dimen name="navigation_bar_width">36.0dip</dimen>
     <dimen name="status_bar_icon_size">24.0dip</dimen>
     <dimen name="status_bar_content_number_size">48.0sp</dimen>
     <item type="dimen" name="system_bar_height">@dimen/navigation_bar_height</item>
@@ -126,6 +126,7 @@
     <dimen name="subtitle_shadow_offset">2.0dip</dimen>
     <dimen name="subtitle_outline_width">2.0dip</dimen>
     <dimen name="immersive_mode_cling_width">-1.0px</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_007f">false</item>
     <dimen name="webviewchromium_link_preview_overlay_radius">7.0dip</dimen>
     <dimen name="webviewchromium_color_button_height">60.0dip</dimen>
     <dimen name="webviewchromium_color_picker_gradient_margin">14.5dip</dimen>

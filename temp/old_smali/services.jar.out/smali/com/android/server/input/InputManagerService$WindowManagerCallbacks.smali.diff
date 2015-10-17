@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/input/InputManagerService$WindowManagerCallbacks.smali	2015-07-25 14:08:44.260876805 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/input/InputManagerService$WindowManagerCallbacks.smali	2015-07-25 14:05:44.970882659 +0530
+*** ./smali/com/android/server/input/InputManagerService$WindowManagerCallbacks.smali	2015-10-17 10:50:23.616091616 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/input/InputManagerService$WindowManagerCallbacks.smali	2015-10-17 10:45:31.676104227 -0400
 ***************
 *** 33,38 ****
 --- 33,41 ----

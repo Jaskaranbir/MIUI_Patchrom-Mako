@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/power/PowerManagerService.smali	2015-07-25 14:08:51.517543235 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService.smali	2015-07-25 14:05:49.917549164 +0530
+*** ./smali/com/android/server/power/PowerManagerService.smali	2015-10-17 10:50:34.492757813 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/power/PowerManagerService.smali	2015-10-17 10:45:39.512770555 -0400
 ***************
 *** 1225,1231 ****
       monitor-enter v1

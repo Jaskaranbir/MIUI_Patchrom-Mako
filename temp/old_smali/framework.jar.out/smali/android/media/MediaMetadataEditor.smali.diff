@@ -1,5 +1,5 @@
-*** ./smali/android/media/MediaMetadataEditor.smali	2015-07-25 14:09:23.000875540 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaMetadataEditor.smali	2015-07-25 14:06:19.250881539 +0530
+*** ./smali/android/media/MediaMetadataEditor.smali	2015-10-17 10:51:31.636088677 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/media/MediaMetadataEditor.smali	2015-10-17 10:46:29.702768387 -0400
 ***************
 *** 140,145 ****
 --- 140,151 ----

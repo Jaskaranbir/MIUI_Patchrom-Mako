@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/content/SyncManager$SyncHandler.smali	2015-07-25 14:08:44.904210117 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/content/SyncManager$SyncHandler.smali	2015-07-25 14:05:45.394215978 +0530
+*** ./smali/com/android/server/content/SyncManager$SyncHandler.smali	2015-10-17 10:50:24.556091576 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/content/SyncManager$SyncHandler.smali	2015-10-17 10:45:32.549437522 -0400
 ***************
 *** 2752,2757 ****
 --- 2752,2774 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/ILockSettings.smali	2015-07-25 14:08:57.590876370 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings.smali	2015-07-25 14:05:53.994215697 +0530
+*** ./smali/com/android/internal/widget/ILockSettings.smali	2015-10-17 10:50:44.792757368 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings.smali	2015-10-17 10:45:48.132770183 -0400
 ***************
 *** 111,116 ****
 --- 111,124 ----

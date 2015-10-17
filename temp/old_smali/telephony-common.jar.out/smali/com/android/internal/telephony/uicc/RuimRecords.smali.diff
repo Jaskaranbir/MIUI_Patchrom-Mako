@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/uicc/RuimRecords.smali	2015-07-25 14:09:52.640874571 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/RuimRecords.smali	2015-07-25 14:06:48.854213907 +0530
+*** ./smali/com/android/internal/telephony/uicc/RuimRecords.smali	2015-10-17 10:52:23.902753087 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/RuimRecords.smali	2015-10-17 10:47:10.406099962 -0400
 ***************
 *** 314,319 ****
 --- 314,334 ----

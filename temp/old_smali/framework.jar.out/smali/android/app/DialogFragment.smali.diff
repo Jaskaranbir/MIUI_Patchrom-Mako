@@ -1,5 +1,5 @@
-*** ./smali/android/app/DialogFragment.smali	2015-07-25 14:09:09.954209299 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/DialogFragment.smali	2015-07-25 14:06:05.730881982 +0530
+*** ./smali/android/app/DialogFragment.smali	2015-10-17 10:51:00.496090023 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/DialogFragment.smali	2015-10-17 10:46:09.412769263 -0400
 ***************
 *** 421,426 ****
 --- 421,430 ----

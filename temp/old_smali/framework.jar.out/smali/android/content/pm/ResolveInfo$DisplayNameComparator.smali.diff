@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/ResolveInfo$DisplayNameComparator.smali	2015-07-25 14:09:19.770875644 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo$DisplayNameComparator.smali	2015-07-25 14:06:15.854214984 +0530
+*** ./smali/android/content/pm/ResolveInfo$DisplayNameComparator.smali	2015-10-17 10:51:22.959422386 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo$DisplayNameComparator.smali	2015-10-17 10:46:23.676101981 -0400
 ***************
 *** 66,71 ****
 --- 66,96 ----

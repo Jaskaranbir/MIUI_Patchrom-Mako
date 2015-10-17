@@ -1,5 +1,5 @@
-*** ./smali/android/app/ResourcesManager.smali	2015-07-25 14:09:08.964209331 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ResourcesManager.smali	2015-07-25 14:06:04.717548681 +0530
+*** ./smali/android/app/ResourcesManager.smali	2015-10-17 10:50:59.149423414 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/app/ResourcesManager.smali	2015-10-17 10:46:07.946102660 -0400
 ***************
 *** 215,220 ****
 --- 215,222 ----

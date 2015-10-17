@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/StatusBarManagerService.smali	2015-07-25 14:08:47.194210041 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/StatusBarManagerService.smali	2015-07-25 14:05:46.997549259 +0530
+*** ./smali/com/android/server/StatusBarManagerService.smali	2015-10-17 10:50:28.056091424 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/StatusBarManagerService.smali	2015-10-17 10:45:35.439437397 -0400
 ***************
 *** 10,15 ****
 --- 10,16 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/view/ViewRootImpl.smali	2015-07-25 14:09:32.994208547 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl.smali	2015-07-25 14:06:29.230881214 +0530
+*** ./smali/android/view/ViewRootImpl.smali	2015-10-17 10:51:52.552754440 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl.smali	2015-10-17 10:46:45.272767714 -0400
 ***************
 *** 9130,9135 ****
 --- 9130,9153 ----

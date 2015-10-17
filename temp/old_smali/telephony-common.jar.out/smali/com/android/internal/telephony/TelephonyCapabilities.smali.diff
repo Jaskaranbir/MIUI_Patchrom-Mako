@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/TelephonyCapabilities.smali	2015-07-25 14:09:50.340874646 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/TelephonyCapabilities.smali	2015-07-25 14:06:46.264213991 +0530
+*** ./smali/com/android/internal/telephony/TelephonyCapabilities.smali	2015-10-17 10:52:21.012753212 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/telephony-common.jar.out/./smali/com/android/internal/telephony/TelephonyCapabilities.smali	2015-10-17 10:47:07.232766766 -0400
 ***************
 *** 8,14 ****
   

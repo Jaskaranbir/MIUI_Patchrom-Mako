@@ -1,5 +1,5 @@
-*** ./smali/android/view/ScaleGestureDetector.smali	2015-07-25 14:09:29.617541990 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/ScaleGestureDetector.smali	2015-07-25 14:06:25.974214653 +0530
+*** ./smali/android/view/ScaleGestureDetector.smali	2015-10-17 10:51:45.166088094 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/view/ScaleGestureDetector.smali	2015-10-17 10:46:40.756101243 -0400
 ***************
 *** 99,105 ****
   .end method

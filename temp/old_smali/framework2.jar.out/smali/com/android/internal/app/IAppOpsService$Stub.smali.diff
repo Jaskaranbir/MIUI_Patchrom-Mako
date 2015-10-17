@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/app/IAppOpsService$Stub.smali	2015-07-25 14:08:53.954209821 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub.smali	2015-07-25 14:05:51.567549111 +0530
+*** ./smali/com/android/internal/app/IAppOpsService$Stub.smali	2015-10-17 10:50:37.942757664 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub.smali	2015-10-17 10:45:42.182770440 -0400
 ***************
 *** 500,505 ****
 --- 500,563 ----

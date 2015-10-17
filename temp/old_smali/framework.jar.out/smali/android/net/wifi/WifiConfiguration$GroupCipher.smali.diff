@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiConfiguration$GroupCipher.smali	2015-07-25 14:09:00.304209613 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$GroupCipher.smali	2015-07-25 14:05:55.680882309 +0530
+*** ./smali/android/net/wifi/WifiConfiguration$GroupCipher.smali	2015-10-17 10:50:47.982757230 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$GroupCipher.smali	2015-10-17 10:45:52.429436664 -0400
 ***************
 *** 33,39 ****
       .locals 3

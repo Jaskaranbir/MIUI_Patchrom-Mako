@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LocationManagerService.smali	2015-07-25 14:08:45.854210085 +0530
---- /home/jaskaran/Android/Patchrom/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LocationManagerService.smali	2015-07-25 14:05:46.084215956 +0530
+*** ./smali/com/android/server/LocationManagerService.smali	2015-10-17 10:50:25.922758183 -0400
+--- /home/jaskaran/Android/Patchrom6/nexus4/temp/new_smali/services.jar.out/./smali/com/android/server/LocationManagerService.smali	2015-10-17 10:45:33.772770803 -0400
 ***************
 *** 112,117 ****
 --- 112,119 ----
